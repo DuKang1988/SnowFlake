@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowFlake.Core", "src\SnowFlake.Core\SnowFlake.Core.csproj", "{9EAF96BC-580B-4B07-A7EF-224EBF57DD2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowFlake.Console", "src\SnowFlake.Console\SnowFlake.Console.csproj", "{A184781C-2624-469C-87A5-F1A4F67C3892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EAF96BC-580B-4B07-A7EF-224EBF57DD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAF96BC-580B-4B07-A7EF-224EBF57DD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAF96BC-580B-4B07-A7EF-224EBF57DD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAF96BC-580B-4B07-A7EF-224EBF57DD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A184781C-2624-469C-87A5-F1A4F67C3892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A184781C-2624-469C-87A5-F1A4F67C3892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A184781C-2624-469C-87A5-F1A4F67C3892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A184781C-2624-469C-87A5-F1A4F67C3892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4171035-84AF-44F8-96CD-58B3C07BC646}
+	EndGlobalSection
+EndGlobal
