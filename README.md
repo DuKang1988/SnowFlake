@@ -1,7 +1,7 @@
 # SnowFlake
 雪花算法
 
-![avatar][base64str]
+![avatar](https://img2018.cnblogs.com/i-beta/738818/202002/738818-20200214212400220-553374202.png)
 
 简单描述
 
